@@ -12,5 +12,6 @@ public class Commitenew {
 
 System.out.println("Testing the new");
 		System.out.println("Testing the new1");
+		System.out.println("Testing the new3");
 }
 }
