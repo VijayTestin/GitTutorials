@@ -14,5 +14,6 @@ System.out.println("Testing the new");
 		System.out.println("Testing the new1");
 		System.out.println("Testing the new3");
 		System.out.println("Testing the new2");
+		System.out.println("Check commit");
 }
 }
