@@ -11,5 +11,6 @@ public class Commitenew {
 		// TODO Auto-generated method stub
 
 System.out.println("Testing the new");
+		System.out.println("Testing the new1");
 }
 }
